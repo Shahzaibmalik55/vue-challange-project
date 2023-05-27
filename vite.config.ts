@@ -18,5 +18,5 @@ export default defineConfig({
       external: ['NonExistingPath']
     }
   },
-  base: '/vue-challange-project/'
+  base: './'
 })
