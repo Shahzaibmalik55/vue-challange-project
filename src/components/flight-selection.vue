@@ -1,3 +1,0 @@
-<template>
-  Flight Selection
-</template>

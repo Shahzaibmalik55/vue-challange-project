@@ -6,7 +6,7 @@
 
 <script lang="ts">
 
-import { countriesDocumentInfo, bottomNavigation } from '../utils/constants';
+import { countriesDocumentInfo, bottomNavigation } from '../../utils/constants.js';
 
 export default {
   data: () => ({

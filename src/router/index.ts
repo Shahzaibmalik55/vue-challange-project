@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
 // components
-import FlightSelectionPage from '../components/flight-selection.vue';
-import VisaRequirementsPage from '../components/visa-requirements.vue';
+import FlightSelectionPage from '../components/flight-selection/flight-selection.vue';
+import VisaRequirementsPage from '../components/visa-requirements/visa-requirements.vue';
 
 const routes = [
   {
