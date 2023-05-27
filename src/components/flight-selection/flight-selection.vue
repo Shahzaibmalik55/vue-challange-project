@@ -61,7 +61,7 @@ function onBack() {
             </v-col>
 
             <v-col cols="12" class="airline-info-col">
-              <img width="20" height="20" src="images/emirates-airline-logo.jpeg" />
+              <v-img width="20" height="20" src="images/emirates-airline-logo.jpeg" />
               <v-icon size="40">mdi-circle-small</v-icon>
               <span>Emirates,</span>
               <span>EK1456</span>
